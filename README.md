@@ -34,4 +34,4 @@ Discussions that require follow-up may be converted into [Issues](https://github
 ## Links
 
 - **Website:** [fpprojections.com](https://fpprojections.com)
-- **FirstPitch iOS app:** [App Store](https://apps.apple.com/app/firstpitch-for-sorare-mlb/id6450561797)
+- **FirstPitch iOS app:** [App Store](https://apps.apple.com/us/app/fp-projections/id6447810196)
