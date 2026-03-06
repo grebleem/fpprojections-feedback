@@ -10,7 +10,7 @@
 
 ---
 
-This repository is the public feedback board for **FP Projections**. Use [Discussions](https://github.com/grebleem/fpprojections-feedback/discussions) to report bugs, suggest features, or share general feedback.
+This repository is the public feedback board for **FP Projections**. Use [Discussions](https://github.com/grebleem/fpprojections-feedback/discussions) to share feedback, report bugs, and suggest features. Actionable items get tracked as [Issues](https://github.com/grebleem/fpprojections-feedback/issues).
 
 ## How to Submit Feedback
 
@@ -21,6 +21,8 @@ This repository is the public feedback board for **FP Projections**. Use [Discus
    - **General** — Questions, feedback, or anything else
 3. Check if someone already posted the same thing — upvote it instead of creating a duplicate
 4. Create a new discussion with a clear title and description
+
+Discussions that require follow-up may be converted into [Issues](https://github.com/grebleem/fpprojections-feedback/issues) for tracking.
 
 ## Guidelines
 
